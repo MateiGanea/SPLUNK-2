@@ -2,10 +2,15 @@
 # Windows Server Attack
 # all users should have to use MFA and change passwords once a month.
 <img src="https://github.com/MateiGanea/SPLUNK-2/blob/main/screenshots/user%20k.png?raw=true" alt="userk">
+
 # for user K limit the amount of password reset requests available and lock them out after too many for an appropiate time period.
+
 <img src="https://github.com/MateiGanea/SPLUNK-2/blob/main/screenshots/lockout.png?raw=true" alt="lockout">
+
 # User A should have a much longer lockout time period since it appears it is being flooded with bad login requests in the span of one day a longer lockout timer would prevent this.
+
 <img src="https://github.com/MateiGanea/SPLUNK-2/blob/main/screenshots/user%20j.png?raw=truee" alt="user j">
+
 # User J appears to be compromised. They should have their account password manually changed by an admin and the account and user should undergo a security audit.
 
 
