@@ -11,7 +11,7 @@
 
 <img src="https://github.com/MateiGanea/SPLUNK-2/blob/main/screenshots/user%20j.png?raw=truee" alt="user j">
 
-# User J appears to be compromised. They should have their account password manually changed by an admin and the account and user should undergo a security audit.
+# User J appears to be compromised. They should have their account password manually changed by an admin and the account and user should be audited.
 
 
 # APACHE WEBSERVER ATTACKS
