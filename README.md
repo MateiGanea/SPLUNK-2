@@ -1,6 +1,6 @@
 # SPLUNK-2
 # Windows Server Attack
-# all users should have to use MFA.
+# all users should have to use MFA and change passwords once a month.
 <img src="https://github.com/MateiGanea/SPLUNK-2/blob/main/screenshots/user%20k.png?raw=true" alt="userk">
 # for user K limit the amount of password reset requests available and lock them out after too many for an appropiate time period.
 <img src="https://github.com/MateiGanea/SPLUNK-2/blob/main/screenshots/lockout.png?raw=true" alt="lockout">
