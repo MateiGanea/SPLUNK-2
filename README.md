@@ -1,6 +1,6 @@
 # SPLUNK-2
 # Windows Server Attack
-# all users should have to use MFA
+# all users should have to use MFA also to prevent insider attacks from locking out accounts limit the amount of password reset requests available and lock them out after too many.
 
 
 # APACHE WEBSERVER ATTACKS
